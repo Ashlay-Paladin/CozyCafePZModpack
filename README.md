@@ -5,7 +5,7 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 ### General Configuration
 - Enjoy 12 Additional Character Trait points during character creation! These will combine with the points already provided if you do not choose a profession. This should allow you to experiment with more traits!
 - Global Chat has been disabled. Only local, faction, and radio style chats are enabled. Admins are able to utilize specific server-wide chats, if needed.
-- There are no predefined spawn coordinates, but community members previously tend to start in Rosewood, unless you are itching to visit Camp Crystal Lake near Riverside
+- Regardless of spawn point chosen, players will spawn in front of the Fire Hall in Rosewood.
 - PvP is enabled by default. You will not be specifically indicated in any way.
 - Currently, there is a 16 player limit on the server. I do not anticipate this will be an issue, but if so, it can be expanded in the future.
 - Every 48 in-game hours, any container that has no items in it will spawn new items. These containers must not be player built OR contained in a building that has player construction (barricades, etc.).
