@@ -157,3 +157,12 @@ C:\Users\YourUsername\Zomboid\mods\
 ```
 ~/Zomboid/mods/
 ```
+
+Once installed, your mods folder should look something like this (using Windows as an example, for the user AshlayPaladin):
+```
+C:\Users\AshlayPaladin\Zomboid\mods
+├── AmmoCraft
+├── AmmoCraft Firearms PATCH
+├── Authentic Z - Current
+└── etc...
+```
