@@ -144,7 +144,7 @@ You can download the ZIP with all the mods here: https://mlcgaming-my.sharepoint
 Unpack the ZIP file and drag all folders in the 'mods' folder into your own mods folder location. This will depend largely on your installation, but the default locations tend to be as listed below.
 
 ### Windows
-Default Location: C:\Users\\<Username>\Zomboid\mods
+Default Location: C:\Users\Username\Zomboid\mods
 
 ### Mac
 Default Location: ~/Zomboid/mods/
