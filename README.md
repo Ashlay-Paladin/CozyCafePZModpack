@@ -141,6 +141,7 @@ Our initial setup is largely cosmetic and Quality of Life mods, with expansions 
 You can download the ZIP with all the mods here: https://mlcgaming-my.sharepoint.com/:u:/g/personal/ashlay_cozycafe_org/EVOv_ha50P5NpHOyu-83NQEBYUo5g9HmaTqSAO9a89KBhQ?e=uncZXb
 
 ## Installation
+![Installation Example](https://github.com/Ashlay-Paladin/CozyCafePZModpack/blob/main/ScreenMods.png?raw=true)
 Unpack the ZIP file and drag all folders in the 'mods' folder into your own mods folder location. This will depend largely on your installation, but the default locations tend to be as listed below.
 
 📌 **Windows Default Mod Folder:**
