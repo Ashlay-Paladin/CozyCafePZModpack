@@ -1,13 +1,6 @@
 # Cozy Cafe Modpack
 This repository is purely for the notes related to the Cozy Cafe Modpack patch notes, it's download link, and instructions on installation.
 
-## Release Notes
-### Running on Build41
-
-## Announcement
-### New Server Setup
-The new server is running on Build41 and expanded with various mods. The full list of mods is provided at the end of these release notes.
-
 ## Patch Notes (v0.5)
 ### General Configuration
 - Enjoy 12 Additional Character Trait points during character creation! These will combine with the points already provided if you do not choose a profession. This should allow you to experiment with more traits!
