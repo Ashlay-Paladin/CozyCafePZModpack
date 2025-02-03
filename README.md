@@ -138,7 +138,7 @@ Our initial setup is largely cosmetic and Quality of Life mods, with expansions 
 - Provides a framework for other mods to extend and change skill values
 
 ## Download
-You can download the ZIP with all the mods here: https://mlcgaming-my.sharepoint.com/:u:/g/personal/ashlay_cozycafe_org/EVOv_ha50P5NpHOyu-83NQEBYUo5g9HmaTqSAO9a89KBhQ?e=uncZXb
+You can download the ZIP with all the mods here: https://mlcgaming-my.sharepoint.com/:u:/g/personal/ashlay_cozycafe_org/EVOv_ha50P5NpHOyu-83NQEBYUo5g9HmaTqSAO9a89KBhQ?e=ePe92F
 
 ## Installation
 ![Installation Example](https://github.com/Ashlay-Paladin/CozyCafePZModpack/blob/main/ScreenMods.png?raw=true)
