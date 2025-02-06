@@ -185,7 +185,7 @@ Unpack the ZIP file and drag all folders in the 'mods' folder into your own mods
 
 📌 **Windows Default Mod Folder:**
 ```
-C:\Users\YourUsername\Zomboid\mods\
+C:\Users\%username%\Zomboid\mods\
 ```
 
 📌 **Linux Default Mod Folder:**
