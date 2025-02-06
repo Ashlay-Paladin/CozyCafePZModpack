@@ -1,8 +1,36 @@
 # Cozy Cafe Modpack
 This repository is purely for the notes related to the Cozy Cafe Modpack patch notes, it's download link, and instructions on installation.
 
-## Patch Notes (v0.5)
-### General Configuration
+## Table of Contents
+[Patch 0.6](#-Patch-Notes-(v0.6))
+[Patch 0.5 (Initial Release)](#-Patch-Notes-(v0.5))
+[Download Links](#-downloads)
+[Installation Instructions](#-installation)
+
+# Patch Notes (v0.6)
+## New Mods
+**Chip a Stone**: Allows players to use Hammer or Stone Hammer to turn regular Stone into Chipped Stone for spears and crafting.
+**Read While Walking**: Allows players to read.. while walking. Press R to cancel reading (hotkey is configurable).
+**Medicine Moodles**: New Moodles to visualize the effects of medicine, such as Beta Blockers and Antidepressents. Should help visualize when you need to take more medicine.
+**Just Sleep**: Allows players to sleep regardless of pain, tiredness, panic, or when they last attempted to sleep. Prevents automatically waking up so everyone can wake at the same time.
+**Sleep on It**: Sleeping slowly reduces your depression and anxiety.
+**Sleep with Friends**: Adjusts sleep formula for recovery. Shortens the time necessary to sleep to recover fatigue.
+**Nocturnal Zombies**: Updates to Zoid behavior at different times of night. More specific notes below.
+**Reading is not Boring**: Reading *any* book will reduce boredom, including skill manuals and technical magazines.
+**Read Faster While Sitting**: Plant yourself on the ground with a good book! Your read time will increase. Reading as a vehicle passenger has the same effect.
+**Rain Wash**: Rain will effectively wash your character and vehicle.
+**True Actions**: A series of several mods that add emotes to the game. This will also allow you to sit and lay down on furniture.
+**True Crouching**: Sneaking and shooting while crouched will have better animations.
+## Server Changes
+- Sleeping should now take less time to reduce fatigue. It should also help with stress and depression.
+- Zoids become faster, strong, and more aggressive as the night progresses from 10PM to 5AM, but begins to taper off between 5AM - 8AM.
+- Due to the new reading options and bonuses, base reading speed has been decreased from 1.15 minutes per page to 2.45 minutes per page.
+## Documentation Changes
+- A Patch ZIP will be available for those who have already installed the original mods. This will include only the new mods and be a much smaller download.
+- An updated ZIP containing ALL mods will be available for anyone joining new.
+
+# Patch Notes (v0.5)
+## General Configuration
 - Enjoy 12 Additional Character Trait points during character creation! These will combine with the points already provided if you do not choose a profession. This should allow you to experiment with more traits!
 - Global Chat has been disabled. Only local, faction, and radio style chats are enabled. Admins are able to utilize specific server-wide chats, if needed.
 - Regardless of spawn point chosen, players will spawn in front of the Fire Hall in Rosewood.
@@ -16,7 +44,7 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 - Starting date is now May 1 at 7am, as opposed to mid-July (the default)
 - Water and Electric shutdown has been extended from 0-30 days, to 2-6 months, although the exact time and date is still random.
 
-### Zoids
+## Zoids
 - Zoids are fast, but weak and fragile.
 - Zoid numbers are greater than normal!
 - Zoids are much better at hearing than they are at seeing!
@@ -24,8 +52,6 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 - Zoids are more active at night. During the day they are slower.
 
 ## Mods
-Our initial setup is largely cosmetic and Quality of Life mods, with expansions to traits, skills, and professions. There are a limited number of functional mods, though all Mods will have descriptions of their purpose outlined!
-
 **AmmoCraft**
 - Allows players to craft ammunition using casings, bullet tips, and gunpowder.
 - Has compatibility with the Firearms mod, detailed further down
@@ -137,10 +163,11 @@ Our initial setup is largely cosmetic and Quality of Life mods, with expansions 
 **Stat Tweaks Library**
 - Provides a framework for other mods to extend and change skill values
 
-## Download
-You can download the ZIP with all the mods here: https://mlcgaming-my.sharepoint.com/:u:/g/personal/ashlay_cozycafe_org/EVOv_ha50P5NpHOyu-83NQEBYUo5g9HmaTqSAO9a89KBhQ?e=ePe92F
+# Download
+Full Modpack (v0.6): 
+Modpack Patch (v0.5 to v0.6): https://mlcgaming-my.sharepoint.com/:u:/g/personal/ashlay_cozycafe_org/EVhx9nkwfxJMiRLYzTqq-zoBviBT_sdgq7fpn5tIbVVhfg?e=cd6zVy
 
-## Installation
+# Installation
 ![Installation Example](https://github.com/Ashlay-Paladin/CozyCafePZModpack/blob/main/ScreenMods.png?raw=true)
 Unpack the ZIP file and drag all folders in the 'mods' folder into your own mods folder location. This will depend largely on your installation, but the default locations tend to be as listed below.
 
