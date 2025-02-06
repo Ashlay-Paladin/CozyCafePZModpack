@@ -2,12 +2,12 @@
 This repository is purely for the notes related to the Cozy Cafe Modpack patch notes, it's download link, and instructions on installation.
 
 ## Table of Contents
-[Patch 0.6](#Patch-Notes-(v0.6))
-[Patch 0.5 (Initial Release)](#Patch-Notes-(v0.5))
-[Download Links](#downloads)
+[Patch 0.6](#Patch-Notes-v0.6)
+[Patch 0.5 (Initial Release)](#Patch-Notes-v0.5)
+[Download Links](#download)
 [Installation Instructions](#installation)
 
-# Patch Notes (v0.6)
+# Patch Notes v0.6
 ## New Mods
 **Chip a Stone**: Allows players to use Hammer or Stone Hammer to turn regular Stone into Chipped Stone for spears and crafting.
 **Read While Walking**: Allows players to read.. while walking. Press R to cancel reading (hotkey is configurable).
@@ -29,7 +29,7 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 - A Patch ZIP will be available for those who have already installed the original mods. This will include only the new mods and be a much smaller download.
 - An updated ZIP containing ALL mods will be available for anyone joining new.
 
-# Patch Notes (v0.5)
+# Patch Notes v0.5
 ## General Configuration
 - Enjoy 12 Additional Character Trait points during character creation! These will combine with the points already provided if you do not choose a profession. This should allow you to experiment with more traits!
 - Global Chat has been disabled. Only local, faction, and radio style chats are enabled. Admins are able to utilize specific server-wide chats, if needed.
