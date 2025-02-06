@@ -2,7 +2,7 @@
 This repository is purely for the notes related to the Cozy Cafe Modpack patch notes, it's download link, and instructions on installation.
 
 ## Table of Contents
-- [Patch Notes (0.6)](#patch-notes-(v06))
+- [Patch Notes (0.6)](#patch-notes-v06)
 - [Patch Notes (0.5) (Initial Release)](#patch-notes-v05)
 - [Download Links](#download)
 - [Installation Instructions](#installation)
@@ -164,7 +164,7 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 - Provides a framework for other mods to extend and change skill values
 
 # Download
-Full Modpack (v0.6): 
+Full Modpack (v0.6): https://mlcgaming-my.sharepoint.com/:u:/g/personal/ashlay_cozycafe_org/ES49gCFXePpJgKZxpDBpNHIBtM63njYsjXOOyRvl5LWtAw?e=3ujNCt
 Modpack Patch (v0.5 to v0.6): https://mlcgaming-my.sharepoint.com/:u:/g/personal/ashlay_cozycafe_org/EVhx9nkwfxJMiRLYzTqq-zoBviBT_sdgq7fpn5tIbVVhfg?e=cd6zVy
 
 # Installation
