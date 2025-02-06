@@ -45,7 +45,10 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 
 </details>
 
-# Patch Notes (v0.5)
+<details>
+  
+<summary><h1>Patch Notes (v0.5)</h1></summary>
+
 ## General Configuration
 - Enjoy 12 Additional Character Trait points during character creation! These will combine with the points already provided if you do not choose a profession. This should allow you to experiment with more traits!
 - Global Chat has been disabled. Only local, faction, and radio style chats are enabled. Admins are able to utilize specific server-wide chats, if needed.
@@ -178,6 +181,8 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 
 **Stat Tweaks Library**
 - Provides a framework for other mods to extend and change skill values
+
+</details>
 
 # Download
 - [Full Modpack (v0.6)](https://mlcgaming-my.sharepoint.com/:u:/g/personal/ashlay_cozycafe_org/ES49gCFXePpJgKZxpDBpNHIBtM63njYsjXOOyRvl5LWtAw?e=3ujNCt)
