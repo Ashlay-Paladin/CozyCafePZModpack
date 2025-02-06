@@ -2,10 +2,10 @@
 This repository is purely for the notes related to the Cozy Cafe Modpack patch notes, it's download link, and instructions on installation.
 
 ## Table of Contents
-[Patch 0.6](#Patch-Notes-v0.6)
-[Patch 0.5 (Initial Release)](#Patch-Notes-v0.5)
-[Download Links](#download)
-[Installation Instructions](#installation)
+- [Patch 0.6](#Patch-Notes-v0.6)
+- [Patch 0.5 (Initial Release)](#Patch-Notes-v0.5)
+- [Download Links](#download)
+- [Installation Instructions](#installation)
 
 # Patch Notes v0.6
 ## New Mods
