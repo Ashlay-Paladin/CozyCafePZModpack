@@ -44,9 +44,7 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 - An updated ZIP containing ALL mods will be available for anyone joining new.
 
 </details>
-
 <details>
-  
 <summary><h2>Patch Notes (v0.5)</h2></summary>
 
 ### General Configuration
