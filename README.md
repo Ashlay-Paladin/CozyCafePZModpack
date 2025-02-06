@@ -164,8 +164,8 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 - Provides a framework for other mods to extend and change skill values
 
 # Download
-[Full Modpack (v0.6)](https://mlcgaming-my.sharepoint.com/:u:/g/personal/ashlay_cozycafe_org/ES49gCFXePpJgKZxpDBpNHIBtM63njYsjXOOyRvl5LWtAw?e=3ujNCt)
-[Modpack Patch (v0.5 to v0.6)](https://mlcgaming-my.sharepoint.com/:u:/g/personal/ashlay_cozycafe_org/EVhx9nkwfxJMiRLYzTqq-zoBviBT_sdgq7fpn5tIbVVhfg?e=cd6zVy)
+- [Full Modpack (v0.6)](https://mlcgaming-my.sharepoint.com/:u:/g/personal/ashlay_cozycafe_org/ES49gCFXePpJgKZxpDBpNHIBtM63njYsjXOOyRvl5LWtAw?e=3ujNCt)
+- [Modpack Patch (v0.5 to v0.6)](https://mlcgaming-my.sharepoint.com/:u:/g/personal/ashlay_cozycafe_org/EVhx9nkwfxJMiRLYzTqq-zoBviBT_sdgq7fpn5tIbVVhfg?e=cd6zVy)
 
 # Installation
 ![Installation Example](https://github.com/Ashlay-Paladin/CozyCafePZModpack/blob/main/ScreenMods.png?raw=true)
