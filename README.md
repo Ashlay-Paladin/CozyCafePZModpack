@@ -9,7 +9,8 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 
 <details>
 <summary><h1>Patch Notes (v0.6)</h1></summary>
-## New Mods
+
+  ## New Mods
 **Chip a Stone**: Allows players to use Hammer or Stone Hammer to turn regular Stone into Chipped Stone for spears and crafting.
 
 **Read While Walking**: Allows players to read.. while walking. Press R to cancel reading (hotkey is configurable).
