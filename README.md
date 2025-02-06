@@ -10,17 +10,29 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 # Patch Notes (v0.6)
 ## New Mods
 **Chip a Stone**: Allows players to use Hammer or Stone Hammer to turn regular Stone into Chipped Stone for spears and crafting.
+
 **Read While Walking**: Allows players to read.. while walking. Press R to cancel reading (hotkey is configurable).
+
 **Medicine Moodles**: New Moodles to visualize the effects of medicine, such as Beta Blockers and Antidepressents. Should help visualize when you need to take more medicine.
+
 **Just Sleep**: Allows players to sleep regardless of pain, tiredness, panic, or when they last attempted to sleep. Prevents automatically waking up so everyone can wake at the same time.
+
 **Sleep on It**: Sleeping slowly reduces your depression and anxiety.
+
 **Sleep with Friends**: Adjusts sleep formula for recovery. Shortens the time necessary to sleep to recover fatigue.
+
 **Nocturnal Zombies**: Updates to Zoid behavior at different times of night. More specific notes below.
+
 **Reading is not Boring**: Reading *any* book will reduce boredom, including skill manuals and technical magazines.
+
 **Read Faster While Sitting**: Plant yourself on the ground with a good book! Your read time will increase. Reading as a vehicle passenger has the same effect.
+
 **Rain Wash**: Rain will effectively wash your character and vehicle.
+
 **True Actions**: A series of several mods that add emotes to the game. This will also allow you to sit and lay down on furniture.
+
 **True Crouching**: Sneaking and shooting while crouched will have better animations.
+
 ## Server Changes
 - Sleeping should now take less time to reduce fatigue. It should also help with stress and depression.
 - Zoids become faster, strong, and more aggressive as the night progresses from 10PM to 5AM, but begins to taper off between 5AM - 8AM.
