@@ -7,7 +7,8 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 - [Download Links](#download)
 - [Installation Instructions](#installation)
 
-# Patch Notes (v0.6)
+<details>
+<summary><h1>Patch Notes (v0.6)</h1></summary>
 ## New Mods
 **Chip a Stone**: Allows players to use Hammer or Stone Hammer to turn regular Stone into Chipped Stone for spears and crafting.
 
@@ -40,6 +41,8 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 ## Documentation Changes
 - A Patch ZIP will be available for those who have already installed the original mods. This will include only the new mods and be a much smaller download.
 - An updated ZIP containing ALL mods will be available for anyone joining new.
+
+</details>
 
 # Patch Notes (v0.5)
 ## General Configuration
