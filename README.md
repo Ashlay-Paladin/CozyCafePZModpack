@@ -187,9 +187,9 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 - [Modpack Patch (v0.5 to v0.6)](https://mlcgaming-my.sharepoint.com/:u:/g/personal/ashlay_cozycafe_org/EVhx9nkwfxJMiRLYzTqq-zoBviBT_sdgq7fpn5tIbVVhfg?e=cd6zVy)
 
 ## Installation
-![Installation Example](https://github.com/Ashlay-Paladin/CozyCafePZModpack/blob/main/ScreenMods.png?raw=true)
 Unpack the ZIP file and drag all folders in the 'mods' folder into your own mods folder location. This will depend largely on your installation, but the default locations tend to be as listed below.
 - NOTE: These mods are NOT installed in your SteamApps program folder! If you place them in the mods folder inside of SteamApps, the modpack will NOT work!
+![Installation Example](https://github.com/Ashlay-Paladin/CozyCafePZModpack/blob/main/ScreenMods.png?raw=true)
 
 📌 **Windows Default Mod Folder:**
 ```
