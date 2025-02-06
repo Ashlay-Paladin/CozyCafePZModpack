@@ -8,9 +8,9 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 - [Installation Instructions](#installation)
 
 <details>
-<summary><h1>Patch Notes (v0.6)</h1></summary>
+<summary><h2>Patch Notes (v0.6)</h2></summary>
 
-  ## New Mods
+### New Mods
 **Chip a Stone**: Allows players to use Hammer or Stone Hammer to turn regular Stone into Chipped Stone for spears and crafting.
 
 **Read While Walking**: Allows players to read.. while walking. Press R to cancel reading (hotkey is configurable).
@@ -35,11 +35,11 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 
 **True Crouching**: Sneaking and shooting while crouched will have better animations.
 
-## Server Changes
+### Server Changes
 - Sleeping should now take less time to reduce fatigue. It should also help with stress and depression.
 - Zoids become faster, strong, and more aggressive as the night progresses from 10PM to 5AM, but begins to taper off between 5AM - 8AM.
 - Due to the new reading options and bonuses, base reading speed has been decreased from 1.15 minutes per page to 2.45 minutes per page.
-## Documentation Changes
+### Documentation Changes
 - A Patch ZIP will be available for those who have already installed the original mods. This will include only the new mods and be a much smaller download.
 - An updated ZIP containing ALL mods will be available for anyone joining new.
 
@@ -47,9 +47,9 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 
 <details>
   
-<summary><h1>Patch Notes (v0.5)</h1></summary>
+<summary><h2>Patch Notes (v0.5)</h2></summary>
 
-## General Configuration
+### General Configuration
 - Enjoy 12 Additional Character Trait points during character creation! These will combine with the points already provided if you do not choose a profession. This should allow you to experiment with more traits!
 - Global Chat has been disabled. Only local, faction, and radio style chats are enabled. Admins are able to utilize specific server-wide chats, if needed.
 - Regardless of spawn point chosen, players will spawn in front of the Fire Hall in Rosewood.
@@ -63,14 +63,14 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 - Starting date is now May 1 at 7am, as opposed to mid-July (the default)
 - Water and Electric shutdown has been extended from 0-30 days, to 2-6 months, although the exact time and date is still random.
 
-## Zoids
+### Zoids
 - Zoids are fast, but weak and fragile.
 - Zoid numbers are greater than normal!
 - Zoids are much better at hearing than they are at seeing!
 - Zoids can lose focus more easily if you cut off their line of sight.
 - Zoids are more active at night. During the day they are slower.
 
-## Mods
+### Mods
 **AmmoCraft**
 - Allows players to craft ammunition using casings, bullet tips, and gunpowder.
 - Has compatibility with the Firearms mod, detailed further down
@@ -184,11 +184,11 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 
 </details>
 
-# Download
+## Download
 - [Full Modpack (v0.6)](https://mlcgaming-my.sharepoint.com/:u:/g/personal/ashlay_cozycafe_org/ES49gCFXePpJgKZxpDBpNHIBtM63njYsjXOOyRvl5LWtAw?e=3ujNCt)
 - [Modpack Patch (v0.5 to v0.6)](https://mlcgaming-my.sharepoint.com/:u:/g/personal/ashlay_cozycafe_org/EVhx9nkwfxJMiRLYzTqq-zoBviBT_sdgq7fpn5tIbVVhfg?e=cd6zVy)
 
-# Installation
+## Installation
 ![Installation Example](https://github.com/Ashlay-Paladin/CozyCafePZModpack/blob/main/ScreenMods.png?raw=true)
 Unpack the ZIP file and drag all folders in the 'mods' folder into your own mods folder location. This will depend largely on your installation, but the default locations tend to be as listed below.
 - NOTE: These mods are NOT installed in your SteamApps program folder! If you place them in the mods folder inside of SteamApps, the modpack will NOT work!
