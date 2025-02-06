@@ -3,7 +3,7 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 
 ## Table of Contents
 - [Patch Notes (0.6)](#patch-notes-(v06))
-- [Patch Notes (0.5) (Initial Release)](#patch-notes-(v05))
+- [Patch Notes (0.5) (Initial Release)](#patch-notes-v05)
 - [Download Links](#download)
 - [Installation Instructions](#installation)
 
