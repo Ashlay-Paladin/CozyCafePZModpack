@@ -13,7 +13,7 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
   
 ### Mod Changes
 - Reading skill books will grant an experience bonus **and** a skill multiplier.
-- Sleep with Friends should now properly allow you to keep sleeping
+- Sleep with Friends should now properly allow you to keep sleeping after you are fully rested
 </details>
 <details>
 <summary><h2>Patch Notes (v0.6)</h2></summary>
