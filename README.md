@@ -2,11 +2,18 @@
 This repository is purely for the notes related to the Cozy Cafe Modpack patch notes, it's download link, and instructions on installation.
 
 ## Table of Contents
+- [Patch Notes (0.6.1)](#patch-notes-v061)
 - [Patch Notes (0.6)](#patch-notes-v06)
 - [Patch Notes (0.5) (Initial Release)](#patch-notes-v05)
 - [Download Links](#download)
 - [Installation Instructions](#installation)
 
+<details>
+<summary><h2>Patch Notes (v0.6.1)</h2></summary>
+### Mod Changes
+- Reading skill books will grant an experience bonus **and** a skill multiplier.
+- Sleep with Friends should now properly allow you to keep sleeping
+</details>
 <details>
 <summary><h2>Patch Notes (v0.6)</h2></summary>
 
