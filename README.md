@@ -9,6 +9,25 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 - [Installation Instructions](#installation)
 
 <details>
+  <summary><h2>Patch Notes (v0.6.2)</h2></summary>
+
+### Mod Changes
+- **Shake It Up** and **Just Sleep** mods have been removed from the server. Neither work as intended and throw errors on boot-up, confusing players.
+- **More Bags** has been patched to properly address an experience issue causing errors on boot-up. This error was not player-affecting and generally could be ignored, but better to have it patched out for clarification.
+- The *Make Sack* recipe from **More Bags**, specifically, had its experience application altered. It should now properly award experience.
+
+### Removing Mods 📌
+Two mods have been **removed** from this patch. This is not something I can do for you, so I will note below how to accomplish this. Note, you can avoid this entirely by deleting ALL mods from your system and applying the Full modpack, as well.
+1. Open your Mods folder (based on your operating system, see [Installation Instructions](#installation) below for where to find this)
+2. Select and delete the following folders: **ShakeItUp**, **just-sleep**, and **More Bags**.
+3. Download the *Modpack Patch* found at [Download Links](#download).
+4. Extract the modified version of **More Bags** from the modpack patch ZIP and add it to your Zomboid Mods folder from step 1.
+
+![Installation Example](https://github.com/Ashlay-Paladin/CozyCafePZModpack/blob/main/RemoveMods_0.6.2.png?raw=true)
+
+</details>
+
+<details>
 <summary><h2>Patch Notes (v0.6.1)</h2></summary>
   
 ### Mod Changes
@@ -191,8 +210,8 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 </details>
 
 ## Download
-- [Full Modpack (v0.6)](https://mlcgaming-my.sharepoint.com/:u:/g/personal/ashlay_cozycafe_org/ES49gCFXePpJgKZxpDBpNHIBtM63njYsjXOOyRvl5LWtAw?e=3ujNCt)
-- [Modpack Patch (v0.5 to v0.6)](https://mlcgaming-my.sharepoint.com/:u:/g/personal/ashlay_cozycafe_org/EVhx9nkwfxJMiRLYzTqq-zoBviBT_sdgq7fpn5tIbVVhfg?e=cd6zVy)
+- [Full Modpack (v0.6)](https://mlcgaming-my.sharepoint.com/:u:/g/personal/ashlay_cozycafe_org/EV3_If9752hPjXQqdjNah-YB_D9CM9UwPXFZSW4lAxKKUw?e=T247q0)
+- [Modpack Patch (v0.6 to v0.6.2)](https://mlcgaming-my.sharepoint.com/:u:/g/personal/ashlay_cozycafe_org/EUy7yNbw-_1CiJ5YL9aFjqQBDSQ9DnHNwsIuzUZC6DNu7g?e=42ybFX)
 
 ## Installation
 Unpack the ZIP file and drag all folders in the 'mods' folder into your own mods folder location. This will depend largely on your installation, but the default locations tend to be as listed below.
