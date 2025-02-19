@@ -210,7 +210,7 @@ Two mods have been **removed** from this patch. This is not something I can do f
 </details>
 
 ## Download
-- [Full Modpack (v0.6)](https://mlcgaming-my.sharepoint.com/:u:/g/personal/ashlay_cozycafe_org/EV3_If9752hPjXQqdjNah-YB_D9CM9UwPXFZSW4lAxKKUw?e=T247q0)
+- [Full Modpack (v0.6.2)](https://mlcgaming-my.sharepoint.com/:u:/g/personal/ashlay_cozycafe_org/EV3_If9752hPjXQqdjNah-YB_D9CM9UwPXFZSW4lAxKKUw?e=T247q0)
 - [Modpack Patch (v0.6 to v0.6.2)](https://mlcgaming-my.sharepoint.com/:u:/g/personal/ashlay_cozycafe_org/EUy7yNbw-_1CiJ5YL9aFjqQBDSQ9DnHNwsIuzUZC6DNu7g?e=42ybFX)
 
 ## Installation
