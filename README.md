@@ -14,7 +14,7 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 ### Mod Changes
 - **Shake It Up** and **Just Sleep** mods have been removed from the server. Neither work as intended and throw errors on boot-up, confusing players.
 - **More Bags** has been patched to properly address an experience issue causing errors on boot-up. This error was not player-affecting and generally could be ignored, but better to have it patched out for clarification.
-- The *Make Sack* recipe from **More Bags**, specifically, had its experience application altered. It should now properly award experience.
+- The *Make Sack* recipe from **More Bags**, specifically, had its experience application altered. It should now properly award Tailoring experience.
 
 ### Removing Mods 📌
 Two mods have been **removed** from this patch. This is not something I can do for you, so I will note below how to accomplish this. Note, you can avoid this entirely by deleting ALL mods from your system and applying the Full modpack, as well.
