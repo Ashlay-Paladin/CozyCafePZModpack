@@ -2,6 +2,7 @@
 This repository is purely for the notes related to the Cozy Cafe Modpack patch notes, it's download link, and instructions on installation.
 
 ## Table of Contents
+- [Patch Notes (0.6.2)](#patch-notes-v062)
 - [Patch Notes (0.6.1)](#patch-notes-v061)
 - [Patch Notes (0.6)](#patch-notes-v06)
 - [Patch Notes (0.5) (Initial Release)](#patch-notes-v05)
@@ -10,6 +11,10 @@ This repository is purely for the notes related to the Cozy Cafe Modpack patch n
 
 <details>
   <summary><h2>Patch Notes (v0.6.2)</h2></summary>
+
+### Server Configuration Changes
+- The virus has altered! Zoids that have lived long enough appear to have become deaf, but their vision has become rapidly better. They act more like visual hunters now.
+- Zoids do not appear to migrate as they once have, repopulating areas. It seems, for now, it is possible to clear out safe spaces. Who knows for how long, though.
 
 ### Mod Changes
 - **Shake It Up** and **Just Sleep** mods have been removed from the server. Neither work as intended and throw errors on boot-up, confusing players.
